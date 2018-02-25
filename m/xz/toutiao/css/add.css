@@ -1,0 +1,73 @@
+
+.rich_media_title {
+    margin-bottom: 10px;
+    line-height: 1.4;
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+.author{
+    margin-bottom: 10px;
+    line-height: 1.4;
+    font-weight: 300;
+    font-size: 0.9rem;
+    color: rgb(26, 25, 25);
+    margin-bottom: 0.5rem;
+    font-weight: 380;
+}
+.post{
+    padding: 0.6rem;
+    height: 100vh;
+}
+.posDetail,.posDetail2{
+    color: #797777;
+    font-size: 0.9rem;
+    line-height: 2;
+    text-justify: auto;
+}
+.posDetail2{
+    line-height: 1.5;
+}
+
+img {
+    vertical-align: middle;
+  }
+  
+  /* line 61, ../sass/componets/_scaffolding.scss */
+  .img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+ .page1,.page2{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+ .img4Container{
+     display: flex;
+     justify-content: center;
+ }
+ .img4{
+    height: 30vh;
+    display: block;
+    text-align: center;
+    margin-right:5vw; 
+ }
+ .img5{
+    height: 15vh;
+ }
+ .codeContainer{
+     font-size: 0.5rem;
+     text-align: center;
+ }
+ .page2-1,.page3-1,.page3-2,.page4-1{
+     font-size: 0.9rem;
+ }
+ .page4-1{
+     /* height: 50vh; */
+     line-height: 1.5;
+ }
+ .page2-2 img{
+     height: 25vh;
+     width: 100%;
+ }
